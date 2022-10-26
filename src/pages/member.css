@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Orbitron:wght@700&family=Raleway:wght@200;400;500;600&display=swap');
+
+.card-box{
+    background-color: #FFD6Ec;
+    margin-left: 100px;
+    width: 450px;
+    height: 400px;
+    border-radius: 15px;
+}
+.card{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.img{
+    background-image: url(../../../Icons/jpeg\(4\));
+    background-size: 100% 100%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 45px;
+    margin-left: 120px;
+}
+.img-1{
+    background-image: url(../../../Icons/Cute\ Girl\ Images\ \(\ New\ 2022\ \)\ For\ Whatsapp\ Dp\ Free\ Download.jpeg);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-size: 100% 100%;
+    margin-top: 45px;
+    margin-left: 120px;
+}
+.img-2{
+    background-image: url(../../../Icons/Love\ Knot\ \(Short\ Stories\).jpeg);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-size: 100% 100%;
+    margin-top: 45px;
+    margin-left: 120px;
+    
+}
+.name{
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Raleway';
+    font-size: 20px;
+    color: #EA047E;
+}
+.detail{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Nunito';
+    font-weight: 900;
+}
+.img-3{
+    background-image: url(../../../Icons/pencil-and-ruler.png);
+    background-size: 100% 100%;
+    width: 150px;
+    height: 150px;
+    
+    margin-top: 45px;
+    margin-left: 150px;
+}
+.img-4{
+   
+    background-image:url(../../../Icons/ux.png);
+    width: 150px;
+    height: 160px;
+    background-size: 100% 100%;
+    margin-top: 45px;
+    margin-left: 150px;
+}
+.img-5{
+   
+    width: 150px;
+    height: 150px;
+    background-image: url(../../../Icons/development.png);
+    background-size: 100% 100%;
+    margin-top: 45px;
+    margin-left: 150px;
+    
+}
+.detail-2{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Nunito';
+    font-weight: 900;
+}
+.c-box{
+    background-color: #FFD6Ec;
+    width: 1500px;
+    height: 500px;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.c-img{
+    background-image: url(../../../Icons/vpm_original.png);
+    background-size: 100% 100%;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 435px;
+    right: 300px;
+    border-radius: 50%;
+}
+.insta{
+    background-image: url(../../../Icons/instagram.png);
+    background-size: 100% 100%;
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+}
+.twiter{
+    background-image: url(../../../Icons/twitter.png);
+    background-size: 100% 100%;
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+}
+.service{
+    background-image: url(../../../Icons/customer-support.png);
+    background-size: 100% 100%;
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+}
+.email{
+    background-image: url(../../../Icons/email.png);
+    background-size: 100% 100%;
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+}
+.content{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 180px;
+
+}
+.c-box p{
+    font-family: 'Nunito';
+    font-weight: 700;
+    font-size: 28px;
+    padding-top: 10px;
+    padding-left: 295px;
+    color: #EA047E;
+}
+.c-box h1{
+    font-family: 'Raleway';
+    font-size: 62px;
+    padding-top: 80px;
+    padding-left: 310px;
+}
