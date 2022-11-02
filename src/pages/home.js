@@ -1,10 +1,12 @@
 import React from "react";
 import Navbar from "../Component/UI/Layout/navbar";
 import './home.css';
- 
+ //Home page
 function Home(){
     return(
+        
         <div className="container">
+            {/* For contents */}
         <div className="container-1">
         <div className="title">
             <h1></h1>
@@ -18,6 +20,7 @@ function Home(){
                 <div className="btn">
                 <div className="primary">
                     <div className="p1">View</div>
+                  
                 </div>
                 </div>
                 <div className="btn">
@@ -28,6 +31,7 @@ function Home(){
             </div>
         </div>
         </div>
+          {/* For image */}
         <div className="container-2">
 
         </div>

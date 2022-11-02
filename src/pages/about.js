@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../Component/UI/Layout/navbar";
+//About page
 function About(){
     return(
         <div className="c-container">

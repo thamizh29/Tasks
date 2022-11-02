@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../Component/UI/Layout/navbar";
 import './member.css'
- 
+ //members page
 function Members(){
     return(
         <div className="m-container">
