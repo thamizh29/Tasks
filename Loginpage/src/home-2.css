@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Orbitron:wght@700&family=Raleway:wght@200;400;500;600&display=swap');
+
+.Home-container{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+}
+.u-btn{
+    height:50px;
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 1150px;
+    background-color: #C7DCFB;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+.n-btn{
+    height:50px;
+    width: 150px;
+    margin-top: 100px;
+   margin-left: 50px;
+   border:1px solid #266CD6;
+   border-radius: 10px;
+   padding-left: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+.img-2{
+    background-image: url(../src/image/Free\ Vector\ Flat\ people\ asking\ questions\ illustration\(1\).jpeg);
+    height: 600px;
+    width:450px;
+    position: absolute;
+    top:280px;
+    right: 250px;
+}
+.logo{
+    background-image: url(./image/Untitled\(3\).png);
+    height:200px;
+    width: 250px;
+}
+.c-1{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 38px;
+    margin-top: 100px;
+}
+.c-2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 34px;
+    font-weight: bolder;
+}
+.c-3{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+p{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.get{
+    height: 50px;
+    width: 110px;
+    border: none;
+    border-radius: 10px;
+    background-color:#CED5EB;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-left: 45px;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+}

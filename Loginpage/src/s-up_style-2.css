@@ -1,0 +1,82 @@
+
+html{
+    background-color:FCF7F7;
+}
+.container{
+
+    position: absolute;
+    width: 982px;
+    height: 668px;
+    left: 560px;
+    top: 169px;
+    background: #DEEBFE;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.textfield{
+    display: flex;
+    flex-direction: column;
+}
+.l-1{
+    font-size: 18px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.l-2{
+    font-size: 18px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.l-3{
+    font-size: 18px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color:#CED5EB;
+    margin-left: 160px;
+}
+.gbtn{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 460px;
+}
+input{
+    height: 52px;
+    width: 310px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    padding-left: 20px;
+}
+h2{
+ font-size: 28px;
+ padding-top: 80px;
+ padding-left: 660px;;
+}
+.img{
+    background-image: url(../src/image/Free\ Vector\ Flat\ people\ asking\ questions\ illustration\(1\).jpeg);
+    width: 442px;
+    height: 668px;
+    position: absolute;
+    left: 0px;
+    border-radius: 10px 0 0 10px;
+    box-shadow: black;
+}
+.box-u{
+    margin-left: 550px;
+    margin-top:10px;
+}
+.box-p{
+    margin-left: 550px;
+    margin-top:10px;
+}
+.box-e{
+    margin-left: 550px;
+    margin-top:10px;
+}
