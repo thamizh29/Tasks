@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Orbitron:wght@700&family=Raleway:wght@200;400;500;600&display=swap');
+.container-1{
+    width: 100wh;
+    height:90vh;
+    
+}
+.container-2{
+    width: 1000px;
+    height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../Icons/Design\ Team.png);
+    position: absolute;
+    top: 200px;
+    right: 150px;
+}
+.title{
+    padding-top: 200px;
+    padding-left: 150px;
+}
+.title h1{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 54px;
+    color: #EA047E;
+}
+.title h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 44px;
+    font-weight: 450;
+    line-height: 60px;
+    color: #EA047E;
+}
+.title p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+    line-height: 27px;
+}
+.buttons{
+    display: flex;
+    margin-left: 0%;
+    flex-direction: row;
+    padding-top: 20px;
+    
+}
+.primary{
+    width:172px;
+    height: 70px;
+    background-color: #EA047E;
+}
+.secondary{
+    width:172px;
+    height: 68px;
+    border: solid 1px #EA047E;
+    margin-left: 35px;
+}
+.btn{
+  
+}
+.p1{
+    padding-top: 22px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Orbitron' ;
+    color:#ffff;
+}
+.s1{
+    padding-top: 22px;
+    padding-left: 55px;
+    font-size: 20px;
+    font-family: 'Orbitron' ;
+
+
+}
