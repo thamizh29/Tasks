@@ -1,22 +1,24 @@
 body{
-  background-color:rgb(80, 75, 75);
+  background-color:rgb(66, 65, 65);
 }
 .window{
-  background-color:rgb(114, 110, 110);
+  background-color:rgb(73, 71, 71);
   width: 30vh;
   height: 30vh;
   margin-left: 50px;
   margin-top: 50px;
 }
 h1{
-  color: white;
+  color: rgb(66, 65, 65);
   font-size: 48px;
   margin-top: 50px;
+  margin-left: 100px;
   padding-top: 10px;
-  padding-left: 100px;
-  max-width: 200vh;
-  height: 100px;
-  background-color:rgb(114, 110, 110);
+  padding-left: 30px;
+  width: 150px;
+  height: 70px;
+  border-radius: 50px;
+  background-color:rgb(231, 217, 15);
 }
 a{
   text-decoration:none ;
@@ -50,18 +52,14 @@ input[type="checkbox"]{
 h2{
   background-color: rgb(114, 110, 110);
   color: white;
-  height: 50px;
-  width: 600px;
-  border-radius: 10px;
+  height: 40px;
+  width: 425px;
   text-align: center;
-  padding-top: 30px;
-  margin-left: 600px;
+  padding-top: 10px;
+  margin-left: 680px;
 }
 .data{
-  font-size: 24px;
+  font-size: 20px;
   color: white;
-  background-color: rgb(114, 110, 110);
-  width: 600px;
-  margin-left: 560px;
-  height: 60px;
+  margin-left: 570px;
 }
