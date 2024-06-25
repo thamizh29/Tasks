@@ -12,6 +12,11 @@ export default function Main() {
         setinput('');
       
     }
+    function handlDelete(index){
+        const newtask = [...task];
+        newtask.splice(index, 1);
+        settask(newtask)
+    }
   return (
     <div>
         <form onSubmit={handleSubmit}>
@@ -19,9 +24,9 @@ export default function Main() {
         <button className='btn' type='submit'>Add</button>
         <h2>Your Task</h2>
             {
-                task.map((tasks)=>
+                task.map((tasks,index)=>
                 <ul>
-                    <li className='data'><input type='checkbox'/>{tasks}</li>
+                    <li key={index} className='data'><input type='checkbox'/>{tasks}<button className='dlt' onClick={handlDelete}>Delete</button></li>
                 </ul>
                 )
             }
